@@ -1,0 +1,4 @@
+["edapally", 1, 1, "we have 10 kg of rice and 89 litres of water left"]
+["edapally", 1, 1, "we have 10 kg of rice and 89 litres of water left"]
+["kalady", 4, 2, "as of now, we curently have 5 kg of rice with 2 kg of potato and 50 litres of drinking water"]
+["mattoor", 1, 0, "1 kg peanut butter many many"]

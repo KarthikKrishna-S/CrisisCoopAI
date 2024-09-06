@@ -1,0 +1,1 @@
+"C:/Users/Karthik Krishna S/miniconda3/python.exe"-m spacy download en_core_web_trf
